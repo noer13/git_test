@@ -8,7 +8,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 	
 	final String LOG = "myLogs";
-	final String LOG_TEXT = "Yura_2";
+	final String LOG_TEXT = "Yura_3";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
